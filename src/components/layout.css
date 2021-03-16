@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  font: 1em sans-serif;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 50rem;
+  margin: 6rem 0;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  text-align: center;
+  background-color: aquamarine;
+  width: 100%;
+  opacity: 50%;
+}
